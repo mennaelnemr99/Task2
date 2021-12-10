@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "pizzas": [
+      {
+        "number": 1,
+        "name": "mushroom pizza",
+        "description": "original crust with mushroom and mozzarella",
+        "extraToppings": [
+          "katcheup",
+          "chicken",
+          "ranch sauce"
+        ],
+        "size": [
+          "small",
+          "large"
+        ],
+        "price": 50
+      },
+      {
+        "number": 1,
+        "name": "mushroom pizza",
+        "description": "original crust with mushroom and mozzarella",
+        "extraToppings": [
+          "katcheup",
+          "chicken",
+          "ranch sauce"
+        ],
+        "size": [
+          "small",
+          "large"
+        ],
+        "price": 50
+      }
+    ],
+    "totalPrice": 100
+  }
+]
